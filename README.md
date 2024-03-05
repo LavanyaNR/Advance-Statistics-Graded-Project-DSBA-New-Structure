@@ -12,8 +12,8 @@ Solve the given problems on Probability, Probability Distribution, Hypothesis Te
 ## Problem 1
 A physiotherapist with a male football team is interested in studying the relationship between foot injuries and the positions at which the players play from the data collected.
 
-![
-](image.png)
+![image](https://github.com/LavanyaNR/Advance-Statistics-Graded-Project-DSBA-New-Structure/assets/152005594/a294381d-6773-45d8-b16a-27d72ac3bf41)
+
 
 Based on the above data, answer the following questions.
 
